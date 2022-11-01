@@ -1,0 +1,19 @@
+.button{
+    background-color:white ;
+    text-decoration: none;
+    border: none;
+    color:lightblue;
+    padding: 15px 30px;
+    margin: 4px 2px;
+    display: inline;
+    float: right;
+    font-size: 55%;
+    margin-top: 65px
+}
+
+b{
+    font-size: 150%;
+}
+
+
+
